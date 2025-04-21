@@ -71,11 +71,10 @@ Langkah-langkah menggunakan sistem machine learning berbasis Extra Trees Classif
 
 <center><img src="image\menu.png" alt="alt text" width="whatever" height="whatever"></center>
 
-<center><img src="image\featur_predict1.png" alt="alt text" width="whatever" height="whatever"></center>
-
 3. Mengisi data yang dibutuhkan. Perlu diperhatikan bahwa nilai jurusan atau Course tidak boleh 'None' serta terdapat batas minimum dan maksimum pada input numerik. Selain itu, pengguna harus menekan enter agar dapat menyimpan data numerik.
 
 <center><img src="image\featur_predict1.png" alt="alt text" width="whatever" height="whatever"></center>
+<center><img src="image\featur_predict2.png" alt="alt text" width="whatever" height="whatever"></center>
 
 4. Hasil prediksi akan tampil di bagian bawah.
 <center><img src="image\hasil_prediksi.png" alt="alt text" width="whatever" height="whatever"></center>
