@@ -28,6 +28,7 @@ python -m venv newenv
 ```
 pip install -r requirements.txt
 ```
+Note: SEBAIKNYA GUNAKAN PYTHON VERSI 3.10
 
 ## Business Dashboard
 
