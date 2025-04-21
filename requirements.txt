@@ -1,6 +1,7 @@
 pandas
 matplotlib
 seaborn
+setuptools<70
 scikit-learn==1.2.2
 pycaret==3.0.4
 streamlit
