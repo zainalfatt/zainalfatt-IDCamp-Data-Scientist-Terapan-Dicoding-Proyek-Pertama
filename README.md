@@ -13,7 +13,7 @@ Permasalahan bisnis yang dihadapi oleh perusahaan Jaya Jaya Maju adalah kesulita
 
 ### Persiapan
 
-Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance
+Sumber data: https://github.com/dicodingacademy/dicoding_dataset/blob/main/employee/employee_data.csv
 
 Setup environment:
 1. Membuat environment baru bernama newenv
