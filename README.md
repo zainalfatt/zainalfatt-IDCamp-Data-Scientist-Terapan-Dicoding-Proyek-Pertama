@@ -57,7 +57,7 @@ berikut adalah tujuan dari dibuatnya dashboard tersebut yakni:
     - Memberi insight bahwa lembur mungkin berkontribusi pada turnover.
 
 
-Link: 
+Link: https://lookerstudio.google.com/reporting/2e66e277-7364-4310-850f-94980e3ae98c
 
 ## Menjalankan Sistem Machine Learning
 Langkah-langkah menggunakan sistem machine learning berbasis Extra Trees Classifier	adalah sebagai berikut.
