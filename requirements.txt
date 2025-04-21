@@ -1,8 +1,8 @@
 pandas
 matplotlib
 seaborn
-scikit-learn
+scikit-learn==1.2.2
 xgboost
 imblearn
-pycaret
+pycaret==3.0.4
 streamlit
