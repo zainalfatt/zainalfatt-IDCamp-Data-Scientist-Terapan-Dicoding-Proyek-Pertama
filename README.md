@@ -32,7 +32,7 @@ Note: SEBAIKNYA GUNAKAN PYTHON VERSI 3.10
 
 ## Business Dashboard
 
-<img src="image\dashboard.png" alt="alt text" width="whatever" height="whatever">
+<img src="image\mosaicnim-dashboard.png" alt="alt text" width="whatever" height="whatever">
 
 berikut adalah tujuan dari dibuatnya dashboard tersebut yakni:
 1. Total, Amount Stay, dan Amount Quit
